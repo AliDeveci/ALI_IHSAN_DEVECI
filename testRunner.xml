@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ALI_IHSAN_DEVECI">
+
+    <test name="InsiderTests Class Test">
+        <classes>
+            <class name="com.insider.tests.InsiderTests"></class>
+        </classes>
+    </test>
+</suite>
