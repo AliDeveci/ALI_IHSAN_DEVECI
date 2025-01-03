@@ -18,7 +18,7 @@ To get start with this framework, you will need to have the following software o
 • Java 8 or later \
 • Maven 3 or later \
 • Chrome or Firefox Web Browser\
-• Clone the project to your computer: `git clone https://github.com/`
+• Clone the project to your computer: `git clone https://github.com/AliDeveci/ALI_IHSAN_DEVECI.git`
 
 1. Open terminal or command prompt and navigate to the root directory of the project.
 2. Run the following command to download the required dependencies:
@@ -44,7 +44,7 @@ ___
 ___
 ## Installation
 
-1. Clone the project to your computer: `git clone https://github.com/....................`
+1. Clone the project to your computer: `git clone https://github.com/AliDeveci/ALI_IHSAN_DEVECI.git`
 2. Navigate to the project directory: `cd Insider_SeleniumAutomationTest`
 3. Install Maven dependencies: `mvn clean install`
 
