@@ -85,7 +85,13 @@ ___
 • My framework is easy to maintain since I have elements stored in one centralized place. If any changes happen on the application about the elements, I know where to go and how to fix it to run test scripts correctly.
 ___
 
+## PET SORE API TEST CASES TASK
+• TASK: Using “pet” endpoints from https://petstore.swagger.io/ write CRUD operations
+API tests with positive and negative scenarios.\
+• Positive and negative test cases which are related to the task are stored in `API_TEST_CASES/ALI_IHSAN_DEVECI_INSIDER_API_TestAutomation_Task.pdf`\
+• There is 1 User Story, 7 Acceptance Criterias, 14 Positive, 40 Negative, Totally 54 Test Cases inside .pdf file. 
 
+___
 ## Contact:
 
 If you have any questions or feedback, please contact me via `a.ihsan.deveci@gmail.com`
