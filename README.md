@@ -90,7 +90,14 @@ ___
 https://www.n11.com/ header and list the results after the search.\
 • Load test cases which are related to the task are stored in `LOAD_TEST_CASES&CODES/ALI_IHSAN_DEVECI_INSIDER_LOAD_TEST_Task.pdf`\
 • There is 1 User Story, 4 Acceptance Criterias, 4 Test Cases inside .pdf file.\
-• You can reach out test codes via
+• You can reach out test codes via `LOAD_TEST_CASES&CODES/N11 Search Module Load Test.jmx`\
+• To have the report of the load test run the below command on terminal;
+#### `jmeter -n -t <location of jmeter script> -l <location of result file> -e -o <location of report folder>`
+Sample path:\
+`D:\Jmeter_N11\apache-jmeter-5.6.3\bin> jmeter -n -t "D:\Jmeter_N11\N11 Search Module Load Test.jmx" -l "D:\Jmeter_N11\Result\n11_load.csv" -e -o "D:\Jmeter_N11\Report"`
+\
+• To read the report of test go to Report folder and click on .html file\
+• You can reach out test report via `LOAD_TEST_CASES&CODES/Report`
 ___
 
 ## PET SORE API TEST CASES TASK
