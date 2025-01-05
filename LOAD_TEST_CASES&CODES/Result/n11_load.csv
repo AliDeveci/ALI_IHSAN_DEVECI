@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1736112438277,384,TC01,403,Forbidden,N11 Search Module 1-1,text,false,Test failed: code expected to match /200/,5101,615,1,1,https://www.n11.com/arama?q=laptop,379,0,351
+1736112440678,27,TC02,403,Forbidden,N11 Search Module 1-1,text,false,Test failed: code expected to match /200/,5101,626,1,1,https://www.n11.com/arama?q=%21%21-%2F*%2B%2B,26,0,0
+1736112442710,32,TC03,403,Forbidden,N11 Search Module 1-1,text,false,Test failed: code expected to match /200/,5101,609,1,1,https://www.n11.com/arama?q=,32,0,0
+1736112444751,24,TC04,403,Forbidden,N11 Search Module 1-1,text,false,Test failed: code expected to match /200/,5101,637,1,1,https://www.n11.com/arama?q=diz%C3%BCst%C3%BC+bilgisayar,23,0,0

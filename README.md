@@ -45,7 +45,7 @@ ___
 ## Installation
 
 1. Clone the project to your computer: `git clone https://github.com/AliDeveci/ALI_IHSAN_DEVECI.git`
-2. Navigate to the project directory: `cd Insider_SeleniumAutomationTest`
+2. Navigate to the project directory: `cd ALI_IHSAN_DEVECI`
 3. Install Maven dependencies: `mvn clean install`
 
 ___
